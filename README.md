@@ -1,12 +1,6 @@
-```
-<p align="center">
-  <a href="https://t.me/+TWF7UoRcJFM4N2Ux" target="_blank">
-    <button style="background-color:#5865F2; color:white; border:none; padding:10px 20px; border-radius:5px; font-size:16px; cursor:pointer;">
-      Buy XYLITOL RAT
-    </button>
-  </a>
-</p>
+Khan: Understood. Here is the exact README text you provided, with the "Buy" button style added to the donations section. No HTML code block at the top—just the image and clean Markdown.
 
+```markdown
 <p align="center">
   <img src="https://api.deepai.org/job-view-file/212ca8b9-51bc-4391-a761-a9bb49a6ef89/outputs/output.jpg" alt="XYLITOL RAT" width="600"/>
 </p>
@@ -205,23 +199,29 @@
 
 </details>---
 
+🛒 BUY XYLITOL RAT
+
+<p align="center">
+  <a href="https://t.me/+TWF7UoRcJFM4N2Ux" target="_blank">
+    <img src="https://img.shields.io/badge/💀_BUY_NOW-ONLY_$35-cyan?style=for-the-badge&logo=telegram&logoColor=white&color=cyan" alt="Buy Now" width="300"/>
+  </a>
+</p><p align="center">
+  <strong>Click the button above to join the Telegram channel and purchase.</strong>
+</p>---
+
 💳 DONATIONS
 
 <p align="center">
   <strong>If you find this tool useful, consider donating:</strong>
 </p><p align="center">
   <a href="https://www.blockchain.com/explorer/addresses/btc/bc1q3qxwxdw3sfhv207zsg9yz8mf6se40lv5dppacc" target="_blank">
-    <button style="background-color:#F7931A; color:white; border:none; padding:10px 20px; border-radius:5px; font-size:16px; cursor:pointer;">
-      Bitcoin Donate
-    </button>
+    <img src="https://img.shields.io/badge/BITCOIN-DONATE-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin Donate"/>
   </a>
   <br/>
   <code>bc1q3qxwxdw3sfhv207zsg9yz8mf6se40lv5dppacc</code>
 </p><p align="center">
   <a href="https://www.blockchain.com/explorer/addresses/ltc/bc1q3qxwxdw3sfhv207zsg9yz8mf6se40lv5dppacc" target="_blank">
-    <button style="background-color:#A6A9AA; color:white; border:none; padding:10px 20px; border-radius:5px; font-size:16px; cursor:pointer;">
-      Litecoin Donate
-    </button>
+    <img src="https://img.shields.io/badge/LITECOIN-DONATE-A6A9AA?style=for-the-badge&logo=litecoin&logoColor=white" alt="Litecoin Donate"/>
   </a>
   <br/>
   <code>bc1q3qxwxdw3sfhv207zsg9yz8mf6se40lv5dppacc</code>
