@@ -2,42 +2,6 @@
 
 ```markdown
 <p align="center">
-  <a href="https://blockchain.com/btc/address/bc1q3qxwxdw3sfhv207zsg9yz8mf6se40lv5dppacc" target="_blank" style="margin: 5px;">
-    <button style="background-color:#f7931a; color:white; border:none; padding:10px 20px; border-radius:5px; font-size:16px; cursor:pointer;">
-      Donate Bitcoin
-    </button>
-  </a>
-  <a href="https://blockchair.com/litecoin/address/ltc1qvu4t3t4x2cl5a3vzvqxuhtgw04pzqsn8my4085" target="_blank" style="margin: 5px;">
-    <button style="background-color:#b3b3b3; color:white; border:none; padding:10px 20px; border-radius:5px; font-size:16px; cursor:pointer;">
-      Donate Litecoin
-    </button>
-  </a>
-</p>
-```
-
-**Note:** The `target="_blank"` attribute won't work in markdown on GitHub, but you can keep it if you're viewing in HTML-rendered environments or just remove it. 
-
-If you want the markdown-only version (without `target="_blank"`), here it is:
-
-```markdown
-<p align="center">
-  <a href="https://blockchain.com/btc/address/bc1q3qxwxdw3sfhv207zsg9yz8mf6se40lv5dppacc" style="margin: 5px;">
-    <button style="background-color:#f7931a; color:white; border:none; padding:10px 20px; border-radius:5px; font-size:16px; cursor:pointer;">
-      Donate Bitcoin
-    </button>
-  </a>
-  <a href="https://blockchair.com/litecoin/address/ltc1qvu4t3t4x2cl5a3vzvqxuhtgw04pzqsn8my4085" style="margin: 5px;">
-    <button style="background-color:#b3b3b3; color:white; border:none; padding:10px 20px; border-radius:5px; font-size:16px; cursor:pointer;">
-      Donate Litecoin
-    </button>
-  </a>
-</p>
-```
-
-
-
-```markdown
-<p align="center">
   <a href="https://t.me/+TWF7UoRcJFM4N2Ux" target="_blank">
     <button style="background-color:#5865F2; color:white; border:none; padding:10px 20px; border-radius:5px; font-size:16px; cursor:pointer;">
       Buy XYLITOL RAT
@@ -170,3 +134,5 @@ If you want the markdown-only version (without `target="_blank"`), here it is:
   </a>
 </p>
 ```
+
+---
