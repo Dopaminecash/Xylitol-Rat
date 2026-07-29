@@ -1,7 +1,4 @@
-Got it. I'll update the README with the provided image link. Here's the revised version with the correct image URL:
-
----
-
+```
 <p align="center">
   <a href="https://t.me/+TWF7UoRcJFM4N2Ux" target="_blank">
     <button style="background-color:#5865F2; color:white; border:none; padding:10px 20px; border-radius:5px; font-size:16px; cursor:pointer;">
@@ -114,20 +111,130 @@ Got it. I'll update the README with the provided image link. Here's the revised 
 !admin         - Spam UAC prompts
 !critproc      - Set as critical process
 ```
-</details>
 
-<!-- Continue with other command sections as before -->
+</details><details>
+<summary><b>📁 FILES</b></summary>```plaintext
+!download      - Download file from victim
+!upload        - Upload file to victim (attach file)
+!extract       - Extract archive
+!delete        - Delete file/folder
+!find          - Search for files
+```
+
+</details><details>
+<summary><b>🕵️ STEAL</b></summary>```plaintext
+!passwords     - Grab passwords from all browsers
+!cookies       - Grab cookies from all browsers
+!robloxcookie  - Grab Roblox .ROBLOSECURITY cookie
+!telegram      - Grab Telegram session
+!discord       - Steal Discord token
+!steam         - Steal Steam session
+!wifi          - Dump Wi-Fi passwords
+!crypto        - Scan for crypto wallet extensions
+!screenshot    - Take screenshot
+!webcam        - Capture webcam
+!microphone    - Start live microphone stream
+!microphonestop - Stop microphone stream
+!keylog        - Start keylogger
+!keylogstop    - Stop keylogger and retrieve log
+!clip          - Get clipboard content
+```
+
+</details><details>
+<summary><b>💀 ATTACK</b></summary>```plaintext
+!ransomware    - Encrypt files + drop ransom note
+!extort        - Play fullscreen extortion video
+!jumpscare     - Play unskippable jumpscare
+!nightmare     - Activate nightmare mode
+!party         - RGB flash + sounds (15s)
+!glitch        - Screen glitch effect (10s)
+!glitchstop    - Stop glitch
+!destroy       - Destroy system (unrecoverable)
+!cpuhammer     - Max out CPU usage
+!mousebrick    - Lock mouse
+!wifizap       - Disconnect Wi-Fi
+!disconnect    - Disable network adapters
+!usbdestroy    - Destroy all USB drives
+!invert        - Invert screen colors
+!uninvert      - Restore screen colors
+```
+
+</details><details>
+<summary><b>🧬 ROOTKIT</b></summary>```plaintext
+!rootkit           - Deploy 12-copy deep infection
+!rootkitrecovery   - Scan and revive RAT copies
+```
+
+</details><details>
+<summary><b>🖥️ LIVE</b></summary>```plaintext
+!live         - Start live screen + microphone stream
+!livestop     - Stop live stream
+```
+
+</details><details>
+<summary><b>🔗 PERSISTENCE</b></summary>```plaintext
+!persist      - Install persistence
+!unpersist    - Remove persistence
+!hide         - Hide process
+!show         - Show process
+!melt         - Self-delete
+!clean        - Clear event logs
+!kill         - Complete self-destruct (password required)
+```
+
+</details><details>
+<summary><b>🔧 UTILITY</b></summary>```plaintext
+!msg          - Show popup message on victim
+!beep         - Play beep
+!wallpaper    - Set wallpaper (attach image)
+!volume       - Set system volume
+!mute         - Mute system audio
+!unmute       - Unmute system audio
+!clipcrypto   - Replace clipboard with crypto address
+!clipper      - Start clipboard hijacking
+!clipperstart - Enable clipper
+!clipperstop  - Stop clipper
+!clear        - Clear Discord channel
+!broadcast    - Send message to all victims
+!taskkill     - Kill and block a process
+!taskdisable  - Disable Task Manager
+!taskenable   - Enable Task Manager
+!grab         - One-click full system inventory
+!uninstall    - Remote uninstall (password required)
+```
+
+</details>---
+
+💳 DONATIONS
+
+<p align="center">
+  <strong>If you find this tool useful, consider donating:</strong>
+</p><p align="center">
+  <a href="https://www.blockchain.com/explorer/addresses/btc/bc1q3qxwxdw3sfhv207zsg9yz8mf6se40lv5dppacc" target="_blank">
+    <button style="background-color:#F7931A; color:white; border:none; padding:10px 20px; border-radius:5px; font-size:16px; cursor:pointer;">
+      Bitcoin Donate
+    </button>
+  </a>
+  <br/>
+  <code>bc1q3qxwxdw3sfhv207zsg9yz8mf6se40lv5dppacc</code>
+</p><p align="center">
+  <a href="https://www.blockchain.com/explorer/addresses/ltc/bc1q3qxwxdw3sfhv207zsg9yz8mf6se40lv5dppacc" target="_blank">
+    <button style="background-color:#A6A9AA; color:white; border:none; padding:10px 20px; border-radius:5px; font-size:16px; cursor:pointer;">
+      Litecoin Donate
+    </button>
+  </a>
+  <br/>
+  <code>bc1q3qxwxdw3sfhv207zsg9yz8mf6se40lv5dppacc</code>
+</p>---
+
+📜 LICENSE
+
+This project is for educational purposes only. Unauthorized use is strictly prohibited.
 
 ---
 
-### 💳 DONATIONS
-
-#### Bitcoin
-`Your_Bitcoin_Address_Here`
-
-#### Litecoin
-`Your_Litecoin_Address_Here`
-
----
-
-Let me know if you'd like me to help with anything else!
+<p align="center">
+  <strong>🧪💀 XYLITOL RAT – The Ultimate Weapon</strong><br/>
+  <em>"One RAT to rule them all."</em>
+</p>
+```
