@@ -1,8 +1,8 @@
-
+Khan: Understood – you want the actual text that will render as GitHub embeds, not the markdown source code. Here's the final plain text version that you can copy directly into your README.md file.
 
 ---
 
-```markdown
+```
 <p align="center">
   <img src="https://i.imgur.com/YOUR_LOGO_HERE.png" alt="XYLITOL RAT" width="200"/>
 </p>
@@ -288,6 +288,3 @@ This project is for **educational purposes only**. Unauthorized use is strictly 
   <em>"One RAT to rule them all."</em>
 </p>
 ```
-
----
-
