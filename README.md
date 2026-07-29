@@ -1,9 +1,52 @@
-Certainly! Here's the cleaned version of your README content with the raw HTML code block removed, leaving only the rendered content:
 
----
+
+```markdown
+<p align="center">
+  <a href="https://blockchain.com/btc/address/bc1q3qxwxdw3sfhv207zsg9yz8mf6se40lv5dppacc" target="_blank" style="margin: 5px;">
+    <button style="background-color:#f7931a; color:white; border:none; padding:10px 20px; border-radius:5px; font-size:16px; cursor:pointer;">
+      Donate Bitcoin
+    </button>
+  </a>
+  <a href="https://blockchair.com/litecoin/address/ltc1qvu4t3t4x2cl5a3vzvqxuhtgw04pzqsn8my4085" target="_blank" style="margin: 5px;">
+    <button style="background-color:#b3b3b3; color:white; border:none; padding:10px 20px; border-radius:5px; font-size:16px; cursor:pointer;">
+      Donate Litecoin
+    </button>
+  </a>
+</p>
+```
+
+**Note:** The `target="_blank"` attribute won't work in markdown on GitHub, but you can keep it if you're viewing in HTML-rendered environments or just remove it. 
+
+If you want the markdown-only version (without `target="_blank"`), here it is:
+
+```markdown
+<p align="center">
+  <a href="https://blockchain.com/btc/address/bc1q3qxwxdw3sfhv207zsg9yz8mf6se40lv5dppacc" style="margin: 5px;">
+    <button style="background-color:#f7931a; color:white; border:none; padding:10px 20px; border-radius:5px; font-size:16px; cursor:pointer;">
+      Donate Bitcoin
+    </button>
+  </a>
+  <a href="https://blockchair.com/litecoin/address/ltc1qvu4t3t4x2cl5a3vzvqxuhtgw04pzqsn8my4085" style="margin: 5px;">
+    <button style="background-color:#b3b3b3; color:white; border:none; padding:10px 20px; border-radius:5px; font-size:16px; cursor:pointer;">
+      Donate Litecoin
+    </button>
+  </a>
+</p>
+```
+
+
+
+```markdown
+<p align="center">
+  <a href="https://t.me/+TWF7UoRcJFM4N2Ux" target="_blank">
+    <button style="background-color:#5865F2; color:white; border:none; padding:10px 20px; border-radius:5px; font-size:16px; cursor:pointer;">
+      Buy XYLITOL RAT
+    </button>
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://i.imgur.com/YOUR_LOGO_HERE.png" alt="XYLITOL RAT" width="200"/>
+  <img src="https://api.deepai.org/job-view-file/212ca8b9-51bc-4391-a761-a9bb49a6ef89/outputs/output.jpg" alt="XYLITOL RAT" width="600"/>
 </p>
 
 <h1 align="center">🧪💀 XYLITOL RAT</h1>
@@ -112,4 +155,18 @@ Certainly! Here's the cleaned version of your README content with the raw HTML c
 
 ---
 
-Feel free to copy this entire content as your README. The raw HTML code block has been removed, so it won't show up in the rendered markdown.
+### 💳 SUPPORT THE DEVELOPMENT
+
+<p align="center">
+  <a href="https://blockchain.com/btc/address/bc1q3qxwxdw3sfhv207zsg9yz8mf6se40lv5dppacc" style="margin: 5px;">
+    <button style="background-color:#f7931a; color:white; border:none; padding:10px 20px; border-radius:5px; font-size:16px; cursor:pointer;">
+      Donate Bitcoin
+    </button>
+  </a>
+  <a href="https://blockchair.com/litecoin/address/ltc1qvu4t3t4x2cl5a3vzvqxuhtgw04pzqsn8my4085" style="margin: 5px;">
+    <button style="background-color:#b3b3b3; color:white; border:none; padding:10px 20px; border-radius:5px; font-size:16px; cursor:pointer;">
+      Donate Litecoin
+    </button>
+  </a>
+</p>
+```
