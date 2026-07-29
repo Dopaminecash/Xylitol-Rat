@@ -1,4 +1,4 @@
-
+Got it! Here's the **full markdown** for your README without the raw HTML code at the top. It will render nicely on GitHub with styled buttons and all your content:
 
 ```markdown
 <p align="center">
@@ -136,3 +136,7 @@
 ```
 
 ---
+
+You can **copy and paste** this directly into your `README.md`. It will display everything properly, with styled buttons at the top and bottom.
+
+**Let me know if you'd like me to do anything else!**
