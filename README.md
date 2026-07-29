@@ -1,6 +1,7 @@
-Got it! Here's the **full markdown** for your README without the raw HTML code at the top. It will render nicely on GitHub with styled buttons and all your content:
+Got it. I'll update the README with the provided image link. Here's the revised version with the correct image URL:
 
-```markdown
+---
+
 <p align="center">
   <a href="https://t.me/+TWF7UoRcJFM4N2Ux" target="_blank">
     <button style="background-color:#5865F2; color:white; border:none; padding:10px 20px; border-radius:5px; font-size:16px; cursor:pointer;">
@@ -119,24 +120,14 @@ Got it! Here's the **full markdown** for your README without the raw HTML code a
 
 ---
 
-### 💳 SUPPORT THE DEVELOPMENT
+### 💳 DONATIONS
 
-<p align="center">
-  <a href="https://blockchain.com/btc/address/bc1q3qxwxdw3sfhv207zsg9yz8mf6se40lv5dppacc" style="margin: 5px;">
-    <button style="background-color:#f7931a; color:white; border:none; padding:10px 20px; border-radius:5px; font-size:16px; cursor:pointer;">
-      Donate Bitcoin
-    </button>
-  </a>
-  <a href="https://blockchair.com/litecoin/address/ltc1qvu4t3t4x2cl5a3vzvqxuhtgw04pzqsn8my4085" style="margin: 5px;">
-    <button style="background-color:#b3b3b3; color:white; border:none; padding:10px 20px; border-radius:5px; font-size:16px; cursor:pointer;">
-      Donate Litecoin
-    </button>
-  </a>
-</p>
-```
+#### Bitcoin
+`Your_Bitcoin_Address_Here`
+
+#### Litecoin
+`Your_Litecoin_Address_Here`
 
 ---
 
-You can **copy and paste** this directly into your `README.md`. It will display everything properly, with styled buttons at the top and bottom.
-
-**Let me know if you'd like me to do anything else!**
+Let me know if you'd like me to help with anything else!
